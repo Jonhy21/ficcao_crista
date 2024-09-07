@@ -1,7 +1,7 @@
 ## ✨ Sua Biblioteca Cristã: Mergulhe em Mundos de Fé e Fantasia! ✨ - Projeto Realizada com a Imersão Dev com Google Gemini da Alura.
 
 ## Descrição: 🌟📖
-Que tal uma jornada por mundos mágicos e inspiradores? Nossa aplicação te convida a explorar uma vasta coleção de livros que unem fé e fantasia. Descubra clássicos como As Crônicas de Nárnia e o Senhor dos Anéis, além de outras obras inspiradoras que te farão refletir sobre a vida e a espiritualidade.
+Que tal uma jornada por mundos mágicos e inspiradores? Este projeto te convida a explorar uma vasta coleção de livros que unem fé e fantasia. Descubra clássicos como As Crônicas de Nárnia e o Senhor dos Anéis, além de outras obras inspiradoras que te farão refletir sobre a vida e a espiritualidade.
 
 ## Como Funciona: 📖🎥
 Pesquise: Digite o nome do livro ou palavra-chave que você procura e clique em "Pesquisar".
